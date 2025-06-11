@@ -1,7 +1,7 @@
 # Hi, I'm Abdelrahman Najajrah 👋
 
 👨‍💻 Laravel Full-Stack Developer (Backend-Heavy)  
-🔧 I specialize in building RESTful APIs, multi-tenant SaaS platforms, and modular backend systems using Laravel, Livewire, vue.js, and MySQL.  
+🔧 I specialize in building RESTful APIs, multi-tenant SaaS platforms, and modular backend systems using Laravel, Livewire, Vue.js, and MySQL.  
 💡 I'm currently working on a scalable E-Commerce system using Laravel + Vue 3 SPA.  
 📚 I enjoy clean architecture, performance-driven code, and solving real-world problems through well-structured systems.
 
